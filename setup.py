@@ -45,7 +45,7 @@ class uninstall(_install):
 
 
 setup(name='ifupdown2',
-      version='1.1',
+      version='1.11',
       description='ifupdown 2',
       license='LICENSE',
       author='Roopa Prabhu',
