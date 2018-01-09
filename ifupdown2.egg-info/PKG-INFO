@@ -2,7 +2,7 @@ Metadata-Version: 1.0
 Name: ifupdown2
 Version: 1.1
 Summary: ifupdown 2
-Home-page: cumulusnetworks.com
+Home-page: https://github.com/CumulusNetworks/ifupdown2/
 Author: Roopa Prabhu
 Author-email: roopa@cumulusnetworks.com
 License: UNKNOWN

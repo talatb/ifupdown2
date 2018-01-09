@@ -81,7 +81,7 @@ class InstallCommand(install):
 
 
 setup(name='ifupdown2',
-      version='1.1',
+      version='1.4',
       description="ifupdown 2",
       author='Roopa Prabhu',
       author_email='roopa@cumulusnetworks.com',
