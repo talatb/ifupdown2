@@ -15,6 +15,9 @@ addons/vlan.py
 addons/vrf.py
 addons/vrrpd.py
 addons/vxlan.py
+completion/ifup
+config/addons.conf
+config/ifupdown2.conf
 ifupdown/__init__.py
 ifupdown/argv.py
 ifupdown/config.py
@@ -52,3 +55,6 @@ nlmanager/__init__.py
 nlmanager/nllistener.py
 nlmanager/nlmanager.py
 nlmanager/nlpacket.py
+sbin/ifupdown2
+sbin/ifupdown2d
+sbin/start-networking
